@@ -14,7 +14,7 @@ pip3 install -r requirements.txt
 
 - Augmented features: [Download](https://khoavanhoceduvn-my.sharepoint.com/:u:/g/personal/2606_elibrary_su/EWrW7FGcZqZEmQEoJh2UUDABaVQWCIzFF3tbxOdthGyMrA?e=4roj4e)
 
-### Note: All above datasets need to download and extract to the [data/features](https://github.com/nhattruongpham/soundSepsound/tree/main/data/features) folder.
+### Note: All above datasets need to download and extract to the [data/features](https://github.com/nhattruongpham/DSFD/tree/main/data/features) folder.
 
 ## Usage:
 - First, clone the repository locally:
