@@ -1,5 +1,5 @@
 dataset:
-    dataset_path: <path_to_data>
+    dataset_path: "data" # <path_to_data>
 extract:
     audio_len_s: 1 # second
     eps: 2.220446049250313e-16
