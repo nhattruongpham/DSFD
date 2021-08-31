@@ -71,6 +71,18 @@ git clone https://github.com/nhattruongpham/DFSD.git
     ```
     model = CNN_LSTM_Att_ReLU(params_learn=params_learn, params_extract=params_extract)
     ```
-### Note: To reproduce the experiment and result for the original dataset, please change the dataset directory! 
 
 - Run ```ResultAnalysis.ipynb``` to show confusion matrix and classification report (if any).
+
+### Note: To reproduce the experiment and result for the original dataset, please change the dataset directory! 
+
+## Citation
+If you use this code or part of it, please cite the following paper:
+```
+@article{tran2021detecting,
+  title={Detecting Drill Failure in the Small Short-sound Drill Dataset},
+  author={Tran, Thanh and Pham, Nhat Truong and Lundgren, Jan},
+  journal={arXiv preprint arXiv:2108.11089},
+  year={2021}
+}
+```

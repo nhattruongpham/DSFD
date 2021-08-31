@@ -25,7 +25,7 @@
 #
 # If you use this code or part of it, please cite the following paper:
 # Thanh Tran, Nhat Truong Pham, and Jan Lundgren, "Detecting Drill Failure in the 
-# Small Short-soundDrill Dataset".
+# Small Short-soundDrill Dataset", arXiv preprint arXiv:2108.11089, 2021.
 #
 #####################################################################################
 
